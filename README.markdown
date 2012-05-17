@@ -1,4 +1,4 @@
-AjaxSessionExpiration Demo
+HTML5Tutorial Demo
 ================
 
 Presentation
@@ -18,7 +18,7 @@ Presentation
 - Compile the project with mvn clean install
 - Run Jetty from Maven : mvn jetty:run
 
- Usage
+Usage
 ------------
 
 - Connect to the application at http://127.0.0.1:8080/HTML5Tutorial/
