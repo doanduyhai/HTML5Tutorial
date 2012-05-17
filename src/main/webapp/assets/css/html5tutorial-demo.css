@@ -1,0 +1,30 @@
+.center
+{
+	text-align: center !important;
+}
+
+.middle
+{
+	vertilca-align: middle !important;
+}
+
+
+.right
+{
+	text-align: right !important;
+}
+
+.left
+{
+	text-align: left !important;
+}
+
+.strong
+{
+	font-weight: bold;
+}
+
+.clickable:hover
+{
+	cursor:pointer;
+}
