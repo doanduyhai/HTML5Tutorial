@@ -8,7 +8,7 @@ Presentation
  
  This demo is a support for the following article
  
-  [Contextual event binding with HTML 5 data attributes] (http://doanduyhai.wordpress.com/2012/05/17/contextual-event-binding-with-html-5-data-attributes)
+  [Contextual event binding with HTML 5 data attributes](http://doanduyhai.wordpress.com/2012/05/17/contextual-event-binding-with-html-5-data-attributes)
  
  
  Installation
